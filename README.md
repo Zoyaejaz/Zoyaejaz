@@ -34,7 +34,7 @@
 [![GeeksForGeeks Profile](https://img.shields.io/badge/-GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/zejaz4fye/)
 
 *LeetCode Stats:*  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/varni1505?theme=dark&font=ABeeZee&border=0&radius=20)](https://leetcode.com/zoyaejaz/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/zoyaejaz?theme=dark&font=ABeeZee&border=0&radius=20)](https://leetcode.com/zoyaejaz/)
 
 *GFG Stats:*  
 ![Problems Solved](https://img.shields.io/badge/Solved-400%2B%20Problems-brightgreen?style=flat-square)
