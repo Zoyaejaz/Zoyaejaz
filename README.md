@@ -37,7 +37,7 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/zoyaejaz?theme=dark&font=ABeeZee&border=0&radius=20)](https://leetcode.com/zoyaejaz/)
 
 *GFG Stats:*  
-![Problems Solved](https://img.shields.io/badge/Solved-400%2B%20Problems-brightgreen?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Solved-300%2B%20Problems-brightgreen?style=flat-square)
 ![Coding Score](https://img.shields.io/badge/Coding%20Score-2000%2B-blue?style=flat-square)
 ![Course Completion](https://img.shields.io/badge/Courses-10%2B%20Completed-orange?style=flat-square)
 ![Contest Rank](https://img.shields.io/badge/Contest%20Rank-Under%20500%20🏆-yellowgreen?style=flat-square)
