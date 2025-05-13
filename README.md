@@ -1,3 +1,22 @@
+# 💫 About Me:
+Hey there, I'm [Your Name]!<br>I'm an aspiring Data Analyst with a passion for turning raw data into meaningful insights. I'm currently building my skills in the world of data and development, and loving every step of the journey!<br><br>🚀 What I Bring to the Table<br>💻 Languages I Speak:<br>Java | Python | C++<br><br>📊 Career Focus:<br>Currently diving deep into data analytics — exploring data visualization, statistics, and storytelling with data.<br><br>🌐 Frontend Curious:<br>I have hands-on experience with HTML, CSS, and JavaScript, and I enjoy bringing ideas to life in the browser.<br><br>🎯 My Goals<br>Master data wrangling, visualization, and analytical tools.<br><br>Work on real-world projects involving data analysis and reporting.<br><br>Continuously improve as a problem-solver and data storyteller.<br><br>📈 What I'm Working On<br>Learning libraries like Pandas, NumPy, and Matplotlib.<br><br>Exploring SQL and Power BI/Tableau for dashboarding.<br><br>Building mini frontend + data projects to enhance my portfolio.<br><br>🤝 Let's Connect!<br>I'm always open to collaborations, feedback, or just tech talk!<br>Feel free to check out my repos, and let's grow together.<br><br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zoya1509/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zejaz6806@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zoyaejaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zoyaejaz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoyaejaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=zoyaejaz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 # Hi there, I'm Zoya 👨💻
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Problem+Solver;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
