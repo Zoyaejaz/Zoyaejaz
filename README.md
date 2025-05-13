@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Problem+Solver;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 Hey there, I'm Zoya Ejaz!<br>I'm an aspiring Data Analyst with a passion for turning raw data into meaningful insights. I'm currently building my skills in the world of data and development, and loving every step of the journey!<br><br>🚀 What I Bring to the Table<br>💻 Languages I Speak:<br>Java | Python | C++<br><br>📊 Career Focus:<br>Currently diving deep into data analytics — exploring data visualization, statistics, and storytelling with data.<br><br>🌐 Frontend Curious:<br>I have hands-on experience with HTML, CSS, and JavaScript, and I enjoy bringing ideas to life in the browser.<br><br>🎯 My Goals<br>Master data wrangling, visualization, and analytical tools.<br><br>Work on real-world projects involving data analysis and reporting.<br><br>Continuously improve as a problem-solver and data storyteller.<br><br>📈 What I'm Working On<br>Learning libraries like Pandas, NumPy, and Matplotlib.<br><br>Exploring SQL and Power BI/Tableau for dashboarding.<br><br>Building mini frontend + data projects to enhance my portfolio.<br><br>🤝 Let's Connect!<br>I'm always open to collaborations, feedback, or just tech talk!<br>Feel free to check out my repos, and let's grow together.<br><br>
 
 
@@ -17,9 +18,9 @@ Hey there, I'm Zoya Ejaz!<br>I'm an aspiring Data Analyst with a passion for tur
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Hi there, I'm Zoya 👨💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Problem+Solver;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+
+
 
 ### 🛠 Tech Stack
 
