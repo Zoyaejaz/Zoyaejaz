@@ -27,12 +27,12 @@
 <tr>
 <td>
 <h3>LeetCode</h3>
-<img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=Rubik&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/Zoyaejaz?theme=dark&font=Rubik&ext=heatmap" />
 </td>
 
 <td>
 <h3>Codeforces</h3>
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=varni1512&theme=dark" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Zoyaejaz&theme=dark" />
 </td>
 </tr>
 </table>
