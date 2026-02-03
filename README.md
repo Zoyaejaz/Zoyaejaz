@@ -21,21 +21,7 @@
 </div><br>   
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
-## ⚡ Coding Profiles Stats 
 
-<table>
-<tr>
-<td>
-<h3>LeetCode</h3>
-<img src="https://leetcard.jacoblin.cool/Zoyaejaz?theme=dark&font=Rubik&ext=heatmap" />
-</td>
-
-<td>
-<h3>Codeforces</h3>
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Zoyaejaz&theme=dark" />
-</td>
-</tr>
-</table>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
