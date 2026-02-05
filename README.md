@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm Zoya Ejaz</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Zoya Ejaz
+</h1>
+
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
 ## ✨ About Me
 
-- 🎓 Passionate developer focused on building **clean and scalable web applications**
-- 🌱 Currently learning **Power BI, Excel, Django, and Backend Development**
-- 💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind, Python, and Java**
-- ⚡ Love working on **real-world projects and system design**
+-  Passionate developer focused on building **clean and scalable web applications**
+-  Currently learning **Power BI, Excel, Django, and Backend Development**
+-  Ask me about **React, JavaScript, HTML, CSS, Tailwind, Python, and Java**
+-  Love working on **real-world projects and system design**
 
 ---
 
