@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Zoyaejaz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+products+that+solve+real+Bharat-scale+problems;SIH+2024+Finalist+%7C+IEEE+Published+Researcher;Open+to+SDE+%26+ML+opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer; Building+products+that+solve+real+Bharat-scale+problems;SIH+2024+Finalist+%7C+IEEE+Published+Researcher;Open+to+SDE+%26+ML+opportunities" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,19 +37,11 @@
       <b>♻️ KabadBecho</b><br/>
       A three-sided scrap marketplace connecting sellers, collectors, and recyclers, with Uber-style real-time collector dispatch mechanics.
     </td>
-    <td width="50%" valign="top">
-      <b>🩺 Punarvas</b><br/>
-      An AI physiotherapy companion using MediaPipe Pose for real-time joint-angle detection, with multilingual (English/Hindi/Marathi) and privacy-first, client-side architecture.
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>👁️ Automated Glaucoma Classification (IEEE)</b><br/>
       Research paper using Improved Empirical Mode Decomposition (IEMD) with an SVM + Random Forest + Gradient Boosting ensemble classifier for glaucoma detection.
-    </td>
-    <td width="50%" valign="top">
-      <b>💊 Saheli AI (Bharat-Physio)</b><br/>
-      Built for Meesho's "Scripted by Her" hackathon — an agentic AI architecture designed around Bharat-focused impact and women's empowerment.
     </td>
   </tr>
 </table>
