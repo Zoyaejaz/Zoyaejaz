@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zoya Ejaz</h1>
-<h3 align="center">AI/ML Engineer & Full-Stack Developer | Building products that solve real Bharat-scale problems</h3>
 
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zoyaejaz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+products+that+solve+real+Bharat-scale+problems;SIH+2024+Finalist+%7C+IEEE+Published+Researcher;Open+to+SDE+%26+ML+opportunities" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -78,17 +83,42 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zoyaejaz&theme=radical&hide_border=true&background=0D1117&stroke=BB86FC&ring=BB86FC&fire=FF6B6B&currStreakLabel=BB86FC" alt="GitHub Streak" />
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Zoyaejaz&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoyaejaz&theme=react-dark&hide_border=true&bg_color=0D1117&color=BB86FC&line=FF6B6B&point=FFFFFF" alt="Activity Graph" width="100%"/>
+</div>
+
+### 📊 Stats Overview
+
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Zoyaejaz&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoyaejaz&theme=radical&hide_border=true&layout=compact">
+</div>
+
+<details>
+<summary><b>🔍 More GitHub Stats (profile cards)</b></summary>
+<br>
 <div align="center">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoyaejaz&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zoyaejaz&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zoyaejaz&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zoyaejaz&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zoyaejaz&theme=radical&utcOffset=5.5">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Zoyaejaz&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoyaejaz&theme=radical">
 </div>
+</details>
 
 <br>
 
