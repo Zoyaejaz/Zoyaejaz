@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Pre-final year **B.Tech CSE (AI & ML)** student at **VIT Bhopal University**, Class of 2027 
+- 🎓 Final year **B.Tech CSE (AI & ML)** student at **VIT Bhopal University**, Class of 2027 
 - 🏆 **Smart India Hackathon (SIH) 2024 Finalist**
 - 🔬 Author of an **IEEE research paper** on automated glaucoma classification (ensemble ML on the RIM-ONE r12 dataset)
 - 💼 Former intern at **Mittal Alliance Industries**, and Placement Cell coordinator managing large-scale student placement operations
