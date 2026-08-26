@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zoya Ejaz</h1>
 
 <p align="center">
-  <img src="gitba.png" alt="Banner" width="100%" />
+  <img src="git.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
