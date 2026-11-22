@@ -127,13 +127,13 @@ class ZoyaEjaz:
 ### ⚙️ Backend, Databases & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react,nextjs,mysql,postgres,mongodb,firebase,aws,docker&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,mysql,postgres,mongodb,firebase,aws,docker&theme=dark"/>
 </p>
 
 ### 💻 Languages & Developer Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,git,github,vscode,postman,vercel&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,postman,vercel,render&theme=dark"/>
 </p>
 
 ---
@@ -246,27 +246,10 @@ An application that translates natural language questions into SQL queries using
 - Backend API integration.
 
 </td>
-<td width="50%" valign="top">
 
-### 📈 Pharma Survey Insights
 
-<img src="https://img.shields.io/badge/Data%20Science-Analytics-6366F1?style=flat-square"/>
 
-A survey analytics project focused on extracting meaningful insights from structured pharmaceutical survey data.
 
-**Tech Stack**
-
-`Python` `Pandas` `Excel` `Statistical Analysis`
-
-- Data cleaning and preprocessing.
-- Cross-tabulation and significance analysis.
-- Survey insights and visualization.
-
-</td>
-</tr>
-</table>
-
----
 
 <!-- ================= ACHIEVEMENTS ================= -->
 
